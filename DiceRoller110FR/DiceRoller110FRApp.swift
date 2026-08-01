@@ -11,7 +11,7 @@ import SwiftUI
 struct DiceRoller110FRApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            DiceView()
         }
     }
 }
