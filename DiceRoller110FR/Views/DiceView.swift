@@ -145,7 +145,7 @@ struct DiceView: View {
                 
                 HStack {
                     VStack(alignment: .leading, spacing: 4) {
-                        Text("Live Acceleration")
+                        Text("Acceleration")
                             .font(.caption)
                             .foregroundStyle(.secondary)
                         
